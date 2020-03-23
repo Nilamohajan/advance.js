@@ -1,12 +1,12 @@
-//Falsy:
-//false
-// 0
-// ""
-//undefined
-// null
-// NaN
-//Truthy
-//'0', ' ' []
+Falsy:
+false
+0
+""
+undefined
+null
+NaN
+Truthy
+'0', ' ' []
 
 
 //const name = "0";
